@@ -12,22 +12,23 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Swastik  and I'm from Bangalore</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Data Structures and Algorithms  
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help with DSA
+- 💬 Ask me about Python and Django
+- 📫 How to reach me: hsswastik@gmail.com | https://www.linkedin.com/in/hsswastik/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like Gaming
+- 🎯 Goals: To be a Developer
+
 
 ###
 
@@ -58,11 +59,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hsswastik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/hsswastik/hsswastik/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
