@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **hsswastik/hsswastik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,13 +60,8 @@ Here are some ideas to get you started:
 </div>
 
 
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
 ###
 
-<p align="left">Hello World!!</p>
+
 
 ###
